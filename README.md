@@ -1,16 +1,52 @@
-# React + Vite
+# HTML Tables Practice Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About
+This repository contains practice projects based on HTML tables and CSS styling. Different table layouts and designs were created to improve frontend development skills and understand webpage structure using HTML, CSS, and Tailwind CSS.
 
-Currently, two official plugins are available:
+The project includes multiple table examples with separate styling files for practice and learning purposes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Files Included
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- `Tables.html`  
+  Basic table structure created using HTML.
 
-## Expanding the ESLint configuration
+- `Tables.css`  
+  CSS styling file for `Tables.html`.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- `Tables2.html`  
+  Second table practice page with different layout designs.
+
+- `Tables2.css`  
+  Styling file for `Tables2.html`.
+
+- `Tables3.html`  
+  Advanced table practice page.
+
+- `Tables3.css`  
+  Styling file for `Tables3.html`.
+
+- `index.html`  
+  Main HTML page of the project.
+
+- `tailwind.config.js`  
+  Tailwind CSS configuration file.
+
+- `vite.config.js`  
+  Vite project configuration file.
+
+- `package.json`  
+  Project dependencies and scripts.
+
+- `eslint.config.js`  
+  ESLint configuration file for maintaining code quality.
+
+---
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- Tailwind CSS
+- Vite
